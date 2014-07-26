@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lockscreenWidget</string>
+    <string name="hello_world">Lock Screen Widget installed</string>
+    <string name="menu_settings">Settings</string>
+    <string name="widgetcdescr">button to lock screen widget </string>
+    <string name="sample_device_admin">permission to lock screen</string>
+    <string name="sample_device_admin_description">device admin to lock screen</string>
+    <string name="activity_sample_device_admin">controller activity for device admin receiver</string>
+    <string name="apply_lock_perm">Apply</string>
+</resources>
