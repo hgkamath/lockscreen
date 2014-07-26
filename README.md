@@ -8,5 +8,7 @@ It requires device-admin privilidges which is different from root proivilidges a
 
 To uninstall one has to check that dev-admin privilidges have been relinquished in the settings->security panel. Only then will android 4.4 allow uninstallation. 
 
+contributions, bugfixes, improvements invited
+
 ## License
 Apache v 2.0 
