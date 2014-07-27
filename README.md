@@ -2,9 +2,9 @@
 
 #LockScreen / ScreenLock
 
-LockScreen/ScreenLock is a home-screen button widget that locks the screen. It does not modify the lock-screen design/layout in any way as may other other apps with similar names. An app simple enough to be a demo, but may have a specific niche use case. The lock is instantaenous and one does not have to configure or wait for a timeout to for the lock and pin screen.  
+LockScreen/ScreenLock is a home-screen button widget that locks the screen. It does not modify the lock-screen design/layout in any way as may other other apps with similar names. An app simple enough to be a demo, but may have a specific niche use case. The lock is instantaenous and one does not have to configure or wait for a timeout for the lock and pin screen.  
 
-The lock screen / key-guard is a screen that prevents unintended access or taps for a smart phone when not in use as well as a security feature. A gesture or pin is often used to allow access. 
+The lock screen / key-guard is a screen that prevents unintended access or taps when not in use, whicle simultaneously functioning as a security feature. A swipe-gesture or enterring the configured pin is often used to allow access. 
 
 After installtion, the app will request/prompt for device-admin privilidges (different from being rooted) as the ability to lock the phone and bring up the keyguard is considered outside mainstay of regular apps. 
 
