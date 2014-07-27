@@ -2,13 +2,17 @@
 
 #LockScreen / ScreenLock
 
-LockScreen/ScreenLock is a home-screen button widget that locks the screen. It does not modify the lock-screen design/layout in any way as may other other apps with similar names. An app simple enough to be a demo, but may have a specific niche use case. The lock is instantaenous and one does not have to configure or wait for a timeout for the lock and pin screen.  
+LockScreen/ScreenLock is a home-screen button widget that locks the screen. An app simple enough to be a demo, but may have a specific niche use case. The lock is instantaneous and one does not have to configure or wait for a time out for the lock and pin screen.
 
-The lock screen / key-guard is a screen that prevents unintended access or taps when not in use, whicle simultaneously functioning as a security feature. A swipe-gesture or enterring the configured pin is often used to allow access. 
+The lock screen / key-guard is a screen that prevents unintended access or taps when not in use, while simultaneously functioning as a security feature. A swipe-gesture or entering the configured pin is often used to allow access.
 
-After installtion, the app will request/prompt for device-admin privilidges (different from being rooted) as the ability to lock the phone and bring up the keyguard is considered outside mainstay of regular apps. 
+After installation, the app will request/prompt for device-admin privileges (which is different from being rooted) as the ability to lock the phone and bring up the keyguard is considered outside mainstay of regular apps.
 
-To uninstall one has to first remove the app's device-adminstrator privilidges. Privilege can be relinquished in the android-settings->security panel. Only then will android 4.4 allow uninstallation of the app. 
+To un-install one has to first remove the app's device-administrator privileges. Privilege can be relinquished in the android-settings->security panel. Only then will android 4.4 allow un-installation of the app.
+
+Non-Tampering: The app does not modify the lock-screen design/layout in any way as may other apps with similar names.
+Permissions: The app does not require any (other than device-admin)
+Privacy : The app does not collect, monitor, or use personal information. source code is available on-line to verify
 
 contributions, bugfixes, improvements invited
 
@@ -28,3 +32,11 @@ Apache v 2.0
 
 ## SOURCE
 https://github.com/hgkamath/lockscreen
+
+## ScreenShots
+<img width="192" height="320" src="doc/widget_01_homescreen.png?raw=true" alt="home screen"></img>
+<img width="192" height="320" src="doc/widget_02_activate_device_admin.png?raw=true" alt="activate device admin"></img>
+<img width="192" height="320" src="doc/widget_03_widget_selection.png?raw=true" alt="widget selection"></img>
+<img width="192" height="320" src="doc/widget_04_deactivate_device_admin.png?raw=true" alt="deactivate device admin"></img>
+<img width="192" height="320" src="doc/widget_05_device_administrator_panel.png?raw=true" alt="device administrator panel"></img>
+
