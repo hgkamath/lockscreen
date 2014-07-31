@@ -1,6 +1,7 @@
 
 
 #LockScreen / ScreenLock
+Install app from Google [Play Store](https://play.google.com/store/apps/details?id=com.ganasoft.lockscreenWidget)
 
 LockScreen/ScreenLock is a home-screen button widget that locks the screen. An app simple enough to be a demo, but may have a specific niche use case. The lock is instantaneous and one does not have to configure or wait for a time out for the lock and pin screen.
 
